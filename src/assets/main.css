@@ -5,13 +5,15 @@
 * {
   font-family: tajawal, sans-serif;
 }
-
+body{
+  background: #25262A;
+}
 header a.router-link-exact-active {
-  color: #4494C9;
+  color: #1BC55EFF;
 }
 
 header a.router-link-exact-active:hover {
-  color: #4494C9;
+  color: #1BC55EFF;
 }
 
 .v-enter-active,

@@ -15,9 +15,9 @@ const router = createRouter({
       component: () => import('../views/NewsPage.vue'),
     },
     {
-      path: '/problem',
-      name: 'problem',
-      component: () => import('../views/ProblemPage.vue'),
+      path: '/ourWork',
+      name: 'ourWork',
+      component: () => import('../views/OurWorkPage.vue'),
     },
     {
       path: '/admin',

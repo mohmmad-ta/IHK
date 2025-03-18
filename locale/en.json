@@ -1,37 +1,73 @@
 {
-  "login_logo": "LOG IN",
-  "login_phoneNumber": "Phone Number",
-  "login_phoneNumberPlaceholder": "Enter your Phone Number",
-  "login_password": "password",
-  "login_passwordPlaceholder": "Enter your password",
-  "login_radio": "save login",
-  "login_button": "submit",
+  "login_logo": "تسجيل دخول",
+  "login_email": "البريد الالكتروني",
+  "login_password": "كلمة السر",
+  "login_button": "تسجيل",
 
-  "signup_logo": "SIGN UP",
-  "signup_name": "Name",
-  "signup_email": "Email",
-  "signup_mobile": "Phone Number",
-  "signup_password": "Password",
-  "signup_passwordConfirmation": "Password Confirmation",
-  "signup_location": "Location",
-  "signup_namePH": "Name",
-  "signup_emailPH": "Email",
-  "signup_mobilePH": "Phone Number",
-  "signup_passwordPH": "Password",
-  "signup_passwordConfirmationPH": "Password Confirmation",
-  "signup_locationPH1": "Location 1",
-  "signup_locationPH2": "Location 2",
-  "signup_button": "submit",
-  "signup_radio": "save signup",
+  "nav_title": "IHK",
+  "nav_home": "Home",
+  "nav_news": "News",
+  "nav_work": "Our Projects",
+  "nav_problem2": "الشكاوي",
+  "nav_notification": "الاشعار",
+  "nav_logout": "تسجيل خروج",
 
-  "productView_color": "color",
-  "productView_size": "size",
-  "productView_button": "Add to card",
+  "footer_title": "وكالة اخبار ديالى",
 
-  "shopCard_all": "all",
-  "shopCard_coupon": "coupon",
-  "shopCard_button": "submit",
-  "shopCard_number": "quantity",
-  "shopCard_price": "price",
-  "shopCard_delivery": "delivery"
+  "form_false": "اغلاق",
+  "form_true": "تاكيد",
+  "form_notification": "ارسال اشعار",
+  "form_image": "اضافة صورة",
+
+
+  "admin_news_st": "الاعدادات",
+  "admin_news_created_at": "التاريخ",
+  "admin_news_content": "المحتوى",
+  "admin_news_title": "العنوان",
+  "admin_news_btn_add": "اضافة",
+  "admin_news_no": "التسلسل",
+
+  "home-header-title1": "A Company",
+  "home-header-title2": "Al-Khairat Al-Iraqiya",
+  "home-header-content": "Our Projects",
+  "home-header-data1": "Our Projects",
+
+  "home-work-title": "Our Projects",
+  "home-work-content": "A glimpse of our projects inside and outside Iraq",
+  "home-work-btn": "Show More ...",
+
+  "home-about-co-title": "Al-Khairat Al-Iraqiya",
+  "home-about-co-content": "Our company started work in Iraq in 2009, during the construction of the Anwal Al-Khair project in Al-Anbar Governorate - Hee\nAn integrated strategic project - which is the first scientific experiment in the field of Livestock that is considered a quantum leap in the engineering and development of such projects Iraq.\nThe first building block of engineering to modern designs in poultry farming houses as it was based on scientific developments that demonstrated in practice to be successful.\nWe embarked on a great march during which we tried to establish a culture of engineering based on scientific development in agricultural and animal projects, relying entirely on Modern Science and the use of Modern Equipment and Machines in the field Agriculture and Livestock keeping.",
+  "home-about-co-text": "For livestock and agricultural investments, food industries, commercial agencies and preparing studies",
+
+  "home-about-ceo-title": "Dr. Muhammad Abbas Ahmed Al-Obaidi",
+  "home-about-ceo-content": "Project Engineering, PhD, from the State of Russia.\nMaster's degree from the state of Azerbaijan.\nDr. Al-Obaidi is a renowned specialist in his field in Iraq and the Middle East and consults to the Iraqi Ministry of Agriculture and the Ministry of Planning.\nDr. Mohamed is a Member of the Iraqi Importers Union and the Chamber of Commerce.\nHis career is full of scientific work, that has been applied worldwide in many projects in various countries. Dr. Obaidi’s work achieved self-sufficiency in the country Azerbaijan. He is the author of a study for self-sufficiency and food security for the Republic of Iraq.\nDr. Al-Obaidi is the owner of Al-Warka projects in Al-Muthanna governorate, that comprise of Five investment projects, which are specialized in agricultural \nand animal  production.",
+  "home-about-ceo-text": "Managing Director",
+
+  "work-1-title": "Project sheet/Networked project",
+  "work-1-content": "The land area of the project: (1,212.12 dunums), which is equivalent to approx.. (303 Hectares)\nDesigns and Feasibility: Al-Khairat Al-Iraqia Company for Agricultural, Animal, and food industries Investments and preparing studies.\nProject address: Al-Muthanna Governorate - Al-Salman District - Al-Salman 1 District - Plot No. 1 Al-Ameed\nThe production capacity of the project: 16,000 Tons/year of chicken meat & Five million hatching eggs/year & 879,000 kg/year gizzard\nNumber of breeding halls: 12 breeding halls for brood stock chickens and 120 breeding halls for broilers.\nThe cost of establishing and equipping the project with equipment: 53,660,916,100 Iraqi dinars\nThe operational cost of the project: 33,969,983,744 Iraqi dinars\nAnnual Depreciation: 3,507,754.2 5 Iraqi dinars\n\nThe value of the annual net profit: 24,734,607,971 Iraqi dinars\nCapital recovery period: 66 months\nThe annual return rate for invested capital: 46%",
+  "work-1-text": "",
+
+  "work-2-title": "Project sheet for the production of drum defects",
+  "work-2-content": "The land area of the project: (1,179,172 dunums), which is equivalent to approx. (2,947 Hectares).\n\nDesigns and Feasibility: Al-Khairat Al-Iraqia Company for Agricultural, Animal, and food industries Investments and preparing studies.\n\nProject address: Al-Muthanna Governorate - Al-Salman District - Al-Salman 1 District - Plot number 1 Al-Salhoubia\nThe production capacity of the project: 2,154,960,000 eggs/year\nNumber of halls: 120 halls (24 primary halls and 96 production halls).\nThe cost of establishing and equipping the project: 95,846,810.784 Iraqi dinars.\nThe operational cost of the project: 54,720,000,000 Iraqi dinars.\nThe annual depreciation value: 7.04.147.77 Iraqi dinars.\nThe value of the annual net profit: 11,537. 52,222 Iraqi dinars.\nCapital recovery period: 4 months\nThe annual return on capital: 128%",
+  "work-2-text": "",
+
+  "work-3-title": "Project sheet for the production of fish in the seamless system",
+  "work-3-content": "The land area of the project: 55.15 dunums, which is equivalent to 2.137. 75 m2\nDesigns and Feasibility: Al-Khairat Al-Iraqia Company for Agricultural, Animal, and food industries Investments and preparing studies.\nProject address: Al-Muthanna Governorate - Al-Salman - District 1 Al-Sheikha – Plot No. 1\nThe project's production capacity: 14,396.868 kg / year\nNumber of halls: 12 halls\nThe cost of establishing and equipping the project: 3,637,760,000 Iraqi dinars\nThe operational cost of the project: 19,032,659,496 Iraqi dinars\nAnnual depreciation value: 4,999,841,500 Iraqi dinars\nThe value of the annual net profit: 26,356,537,004 Iraqi dinars\nCapital recovery period: 66 months\nThe annual return on capital: 31%\nStudy preparation date: July - . 2020",
+  "work-3-text": "",
+
+  "work-4-title": "Paper Reserve Project for Ibn Gardening at Kafred Slaughter",
+  "work-4-content": "The land area of the project: 7,071.24 dunums, which is equivalent to 1767 Hectares.\n\nDesigns and Feasibility: Al-Khairat Al-Iraqia Company for Agricultural, Animal, and food industries Investments and preparing studies.\nProject address: Al-Muthanna Governorate - Al-Salman - District 1 Al-Sheikha – Plot No. 1\nThe cost of establishing and equipping the project: 90,852,831,620 dinars\nThe operational cost of the project: 5,171,040,000 dinars\nThe annual extinction value: 3,494,256,740 dinars\nThe value of the annual net profit: 31,09,203,260 dinars\nCapital recovery period: 4 months\nThe annual return on capital: 32.96%\nStudy preparation date: July - . 202\n.",
+  "work-4-text": "",
+
+  "work-5-title": "Integrated Blocks Project Paper",
+  "work-5-content": "The land area of the project: 8,179.3 dunums, which is equivalent to 20.44 Hectares\nDesigns and Feasibility: Al-Khairat Al-Iraqia Company for Agricultural, Animal, and food industries Investments and preparing studies.\nProject address: Al-Muthanna Governorate - Al-Salman - District 1 Al-Sheikha - Plot No. 1\nNumber of closed dairy cows breeding barns: 90 barns\nNumber of open dairy cattle farms: 60\nThe cost of establishing and equipping the project: 192,133,399,155 dinars\nThe cost of buying 6,000 cattle type, Friesian-Holstein: 30,000,000,000 dinars\nProduction capacity of raw milk: 87,600,000 liters / year\nDairy production capacity: 90,240 tons / year\nThe operational cost of the project: 177,09,400,000 dinars\nThe annual depreciation value: 17,935,656,766 dinars\nTotal annual sales value: 337,080,000,000 dinars\nThe value of the annual net profit: 142,045,943,234 dinars\nCapital recovery period: 4 months\nThe annual return on capital: 74%",
+  "work-5-text": "",
+
+
+  "work-6-title": "Project for Racing Meat Steer Paper",
+  "work-6-content": "The land area of the project: 2819 dunums, which is equivalent to 7.04 Hectares\nDesigns and Feasibility: Al-Khairat Al-Iraqia Company for Agricultural, Animal, and food industries Investments and preparing studies.\nProject address: Al-Muthanna Governorate - Al-Salman - District 1 Al-Sheikha - Plot\nNo. 1\nNumber of breeding pens: 60 pens + slaughterhouse\nThe cost of establishing and equipping the project with equipment: 79,886,940,392 dinars\nVeal production capacity: 5,130,000 kg / year\nThe operational cost of the project: 14,056,200,000 dinars\nThe annual depreciation value: 6,331,056,760 dinars\nTotal annual sales value: 39,358,500,000 dinars\nThe value of annual net profit: 18,971,243,240 dinars\nCapital recovery period: 4 months\nThe annual return on capital: 2%",
+  "work-6-text": ""
+
+
 }

@@ -11,7 +11,7 @@ import {createI18n} from "vue-i18n";
 
 const app = createApp(App)
 const i18n = createI18n({
-    locale: 'ar',
+    locale: 'en',
     messages: {
         ar: AR,
         en: EN,

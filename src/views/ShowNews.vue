@@ -34,27 +34,15 @@ window.onpopstate = async (event)=> {
 </script>
 
 <template>
-  <div dir="rtl" class="container gap-4 block md:flex py-20 text-right">
-    <div class="w-full h-fit mb-4">
-      <div class="flex justify-start">
-        <img class="rounded h-96" :src="'https://api.diyalanewsagency.com/'+showData.image" :alt="showData.image">
+  <div class="container gap-4 block md:flex py-24 text-right">
+    <div class="w-full flex gap-4 h-fit mb-4">
+      <div class="w-full md:w-1/2">
+        <img class="rounded w-full" :src="'https://api.diyalanewsagency.com/'+showData.image" :alt="showData.image">
       </div>
-      <h2 class="text-main-50 font-bold text-2xl overflow-hidden my-1">{{showData.title}}</h2>
-      <hr>
-      <span class="text-secondary-950 text-sm">{{showData.created_at}}</span>
-      <p class="text-primary-950 text-lg my-2 overflow-hidden">{{showData.content}}</p>
-    </div>
-    <div class="mb-10 max-h-[80vh] overflow-hidden w-96">
-      <div @click="getShowNews" v-for="(item, index) in store.sliderNews" :key="index">
-        <RouterLink :to="{ name: 'showNews', params: { id: item.id } }">
-          <div class="w-80 mx-auto mb-2 gap-3 relative flex justify-between shadow-md shadow-secondary-100 overflow-hidden text-right bg-secondary-100 p-2 rounded h-36">
-            <img class="rounded h-full w-20" :src="'https://api.diyalanewsagency.com/'+item.image" alt="">
-            <div class="w-full py-1">
-              <h2 class="text-main-50 font-bold text-lg overflow-hidden max-h-6 mb-1">{{item.title}}</h2>
-              <p class="text-secondary-950 text-sm h-[75px] overflow-hidden">{{item.content}}</p>
-            </div>
-          </div>
-        </RouterLink>
+      <div class="w-full md:w-1/2">
+        <h2 class="text-main-50 font-bold text-3xl overflow-hidden my-6">{{showData.title}}</h2>
+        <span class="text-gray-200 text-sm">{{showData.created_at}}</span>
+        <p class="text-main2-950 text-lg my-2 overflow-hidden">{{showData.content}}</p>
       </div>
     </div>
   </div>

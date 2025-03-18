@@ -1,26 +1,26 @@
 <script setup>
-import { useDataStore } from '@/stores/StoreData.js'
 import Search from "@/components/Search.vue";
+import { useDataStore } from '@/stores/StoreData.js'
 const store = useDataStore()
 </script>
 
 <template>
-  <header class="z-40 fixed top-0 left-0 w-full h-16 bg-white shadow-md shadow-secondary-50 overflow-hidden">
+  <header class="z-40 fixed top-0 left-0 w-full h-16 bg-secondary-950 shadow-md shadow-secondary-50 overflow-hidden">
     <div class="container">
       <div class="flex items-center justify-end h-16">
         <div class="flex items-center gap-6">
-          <nav class="flex items-center gap-3 text-secondary-950">
-            <RouterLink to="/problem" class="hover:text-primary-950 duration-150">
-              {{ $t('nav_problem') }}
+          <nav class="flex items-center text-xl gap-4 text-white">
+            <RouterLink to="/ourWork" class="hover:text-main-50 duration-150">
+              {{ $t('nav_work') }}
             </RouterLink>
-            <RouterLink to="/news" class="hover:text-primary-950 duration-150">
+            <RouterLink to="/news" class="hover:text-main-50 duration-150">
               {{ $t('nav_news') }}
             </RouterLink>
-            <RouterLink to="/" class="hover:text-primary-950 duration-150">
+            <RouterLink to="/" class="hover:text-main-50 duration-150">
               {{ $t('nav_home') }}
             </RouterLink>
           </nav>
-          <h1 class="font-bold text-2xl cursor-default text-main-50">{{ $t('nav_title') }}</h1>
+          <h1 class="font-bold text-4xl cursor-default text-main-50">{{ $t('nav_title') }}</h1>
         </div>
       </div>
     </div>
